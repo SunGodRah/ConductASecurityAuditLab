@@ -14,6 +14,8 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 <br />
 
 
+[Botium Toys_ Scope, goals, and risk assessment report.pdf](https://github.com/user-attachments/files/16738226/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf)
+
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
