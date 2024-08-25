@@ -17,38 +17,38 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0d9c5e3d-73b2-4ffe-95e9-db951476029a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/0d9c5e3d-73b2-4ffe-95e9-db951476029a" height="80%" width="80%" alt="Scope and Goals pg 1"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/99e588ee-09e7-4225-acee-ad5837f50606" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/99e588ee-09e7-4225-acee-ad5837f50606" height="80%" width="80%" alt="Scope and Goals pg 2"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/76ac3512-ff75-4793-abc8-fe1737f8e1ba" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/76ac3512-ff75-4793-abc8-fe1737f8e1ba" height="80%" width="80%" alt="Scope and goals pg 3"/>
 </P>
 
 
 <h2>My Final Controls and Compliance Assessment</h2>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/b7b99b91-10ae-49b0-8ede-36ebc085edd2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/b7b99b91-10ae-49b0-8ede-36ebc085edd2" height="80%" width="80%" alt="Final Controls and Compliance pg 1"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/eb5b7ec4-1310-413e-9456-134440e9dc1c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/eb5b7ec4-1310-413e-9456-134440e9dc1c" height="80%" width="80%" alt="Final Controls and Compliance pg 2"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c494b286-5ff9-4efd-9fa6-19bd7a1f2f69" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/c494b286-5ff9-4efd-9fa6-19bd7a1f2f69" height="80%" width="80%" alt="Final Controls and Compliance pg 3"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/928ea9cd-6b22-4086-b7a5-cc5d27ec315f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/928ea9cd-6b22-4086-b7a5-cc5d27ec315f" height="80%" width="80%" alt="Final Controls and Compliance pg 4"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d97e4f4f-dad1-4f35-a499-97129e742ce7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/d97e4f4f-dad1-4f35-a499-97129e742ce7" height="80%" width="80%" alt="Final Controls and Compliance pg 5"/>
 </p>
 
 
