@@ -15,24 +15,42 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 <br />
 
-![A1](https://github.com/user-attachments/assets/0d9c5e3d-73b2-4ffe-95e9-db951476029a)
 
-![A2](https://github.com/user-attachments/assets/99e588ee-09e7-4225-acee-ad5837f50606)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0d9c5e3d-73b2-4ffe-95e9-db951476029a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
-![A3](https://github.com/user-attachments/assets/76ac3512-ff75-4793-abc8-fe1737f8e1ba)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/99e588ee-09e7-4225-acee-ad5837f50606" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/76ac3512-ff75-4793-abc8-fe1737f8e1ba" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</P>
 
 
 <h2>My Final Controls and Compliance Assessment</h2>
 
-![B1](https://github.com/user-attachments/assets/b7b99b91-10ae-49b0-8ede-36ebc085edd2)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b7b99b91-10ae-49b0-8ede-36ebc085edd2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
-![B2](https://github.com/user-attachments/assets/eb5b7ec4-1310-413e-9456-134440e9dc1c)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/eb5b7ec4-1310-413e-9456-134440e9dc1c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
-![B3](https://github.com/user-attachments/assets/c494b286-5ff9-4efd-9fa6-19bd7a1f2f69)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c494b286-5ff9-4efd-9fa6-19bd7a1f2f69" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
-![B4](https://github.com/user-attachments/assets/928ea9cd-6b22-4086-b7a5-cc5d27ec315f)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/928ea9cd-6b22-4086-b7a5-cc5d27ec315f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
-![B5](https://github.com/user-attachments/assets/d97e4f4f-dad1-4f35-a499-97129e742ce7)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d97e4f4f-dad1-4f35-a499-97129e742ce7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 
 <!--
  ```diff
